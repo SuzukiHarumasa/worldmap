@@ -1,7 +1,16 @@
  
 "Worldmap" is a web apprication to display worldmap using django.
 This is practice to use django for me
+# DEMO
  
+* You can see the data of GDP, Average life and Population on map
+ 
+![スクリーンショット 2021-10-01 17 14 20](https://user-images.githubusercontent.com/68998591/135587811-d1662566-4510-4e31-a968-3dc0300c4ff2.png)
+ 
+* Also you can see the row data
+![スクリーンショット 2021-10-01 17 14 38](https://user-images.githubusercontent.com/68998591/135587875-8b1c058d-d10f-4bba-9d13-bec26a9324eb.png)
+
+
  
 # Requirement
  

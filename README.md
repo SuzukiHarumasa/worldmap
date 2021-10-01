@@ -25,15 +25,18 @@ pip install -r requirements.txt
 # Usage
  
 
-Run "demo.py"
+1, Run "python manage.py runserver"
  
 ```bash
-python demo.py
+python manage.py runserver
 ```
+2, access　to "http://127.0.0.1:8000/" 
  
 # Note
  
-I don't test environments under Linux and Mac.
+* I don't test environments under Linux and Windows.
+* If you get error, Please inform me.
+
  
 # Author
  
